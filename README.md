@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @emace593
 - 👀 I’m interested in computer vision for remote sensing.
-- 🌱 I’m currently working on my MS in Computer Science (ML Track) at Columbia. Current classes: Technology, Econ. & Policy, Computation and the Brain;
-      Past classes: Machine Learning, Artificial Intelligence, MLP, Computational Aspects of Robotics, Applied Deep Learning, Analysis of Algorithms, Intro. to Databases
+- 🌱 Most of my projects are from my MS in Computer Science (ML Track) at Columbia (graduated Feb. 2022). I'm also working on some personal projects with data from USA Fencing.
 - 📫 email: emace593@gmail.com
